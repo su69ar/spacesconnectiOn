@@ -2,6 +2,7 @@ RENCANA KONTEN WEB SPACESCONNECTION
 - Services
 - Solusi Digital
 - Pengelolaan Web & SosMed
+- Jasa Kreatif Design 
 - Fitur Shop 
   * Menjual Alat" Komputer
   * Menjual Jasa Service Komputer & Networking
