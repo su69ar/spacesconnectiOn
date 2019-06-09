@@ -2,3 +2,4 @@
 - Konsisten untuk mengelola file didalam bekerja
 - Membuat Pundi - Pundi penghasilan dari segala arah
 - bergaul lebih luas dengan para ahli dan orang positif
+- Membuat Tutorial
