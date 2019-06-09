@@ -5,4 +5,7 @@ RENCANA KONTEN WEB SPACESCONNECTION
 - Fitur Shop 
   * Menjual Alat" Komputer
   * Menjual Jasa Service Komputer & Networking
+- Menambah Sumber Lain:
+ * Forex
+ * Investment
 
